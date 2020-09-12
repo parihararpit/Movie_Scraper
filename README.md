@@ -4,4 +4,4 @@
 
 ## Used Selenium, Node.js to simulate the browser in code and Google Collab as a backend.
 
-## Prepared dataset of 17K+ reviews and corresponding ratings with the web scraper.
+## Prepared dataset of 20K+ reviews and corresponding ratings with the web scraper.
